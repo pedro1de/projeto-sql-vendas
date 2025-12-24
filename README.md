@@ -24,7 +24,7 @@ O objetivo foi modelar o banco, garantir integridade referencial e responder per
 - Acumulado de vendas por filial e UF
 
 ## 🖼 Exemplo de Resultado
-![Resultado da View](images/resultado_view.png)
+![Resultado da View](images/top_5_clientes.png)
 
 ## 📄 Observações
 Projeto focado em lógica SQL, modelagem relacional e análise de dados.
